@@ -1,6 +1,6 @@
 {
   "name": "@jeroendruwe/aem-clientlib-generator",
-  "version": "1.7.7",
+  "version": "1.7.8",
   "description": "Creates configuration files for AEM ClientLibs and synchronizes assets.",
   "author": "pro!vision GmbH (http://www.pro-vision.de)",
   "contributors": [
